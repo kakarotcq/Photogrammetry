@@ -1,2 +1,2 @@
 # Photogrammetry
-some algorithms in photogrammetry implemented by C# with source code, data and results
+some algorithms in surveying and mapping engineering implemented by C#, C, CPP, related to GNSS, remote sensing image processing, geodesy
